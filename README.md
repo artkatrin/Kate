@@ -2,7 +2,7 @@
 
 #### Description
 
-This app is a catalog of ideas.
+This app manages a catalog of ideas.
 Each idea has a title, description and a picture.
 You can browse through the list of ideas, add, view and edit ideas.
 Picture upload functionality is supported.
