@@ -1,24 +1,27 @@
-# README
+# Ideas App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Description
 
-Things you may want to cover:
+This app is a catalog of ideas.
+Each idea has a title, description and a picture.
+You can browse through the list of ideas, add, view and edit ideas.
+Picture upload functionality is supported.
 
-* Ruby version
+#### Demo
 
-* System dependencies
+See live demo [here](https://fierce-shelf-37548.herokuapp.com/ideas).
 
-* Configuration
+#### Technology
 
-* Database creation
+* Backend implemented with Ruby on Rails
+* Sqlite3 database (development)
+* Postgres database (production)
+* Bootstrap-based frontend
+* Styling with custom css
+* Deployment to Heroku
 
-* Database initialization
+#### RailsGirls
 
-* How to run the test suite
+This app was created as part of [RailsGirls](http://www.railsgirls.com) workshop in one day from scratch.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Rails Girls logo](http://www.railsgirls.com/images/railsgirls-sq.png)
